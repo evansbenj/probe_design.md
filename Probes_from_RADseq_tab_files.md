@@ -1,4 +1,4 @@
-# FOr data in tab format from RADseq
+# For data in tab format from RADseq
 
 I worked with this file on info:
 ```
